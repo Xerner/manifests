@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="github" fetch="git@github.com:Xerner" />
+  <default remote="github" revision="development" sync-j="4" />
+
+  <project path="xerner.github.io" name="xerner.github.io" />
+  <project path="common" name="common" />
+</manifest>
