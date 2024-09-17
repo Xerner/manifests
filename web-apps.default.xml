@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="github" fetch="git@github.com:Xerner" />
+  <default remote="github" revision="main" sync-j="4" />
+
+  <project path="xerner.github.io" name="xerner.github.io" />
+  <project path="resume" name="resume" />
+  <project path="bitbucket-dashboard" name="bitbucket-dashboard" />
+  <project path="budget-projection" name="budget-projection" />
+  <project path="color-slicer" name="color-slicer" />
+  <project path="common-ts" name="common-ts" />
+</manifest>
